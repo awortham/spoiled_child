@@ -1,5 +1,4 @@
-# require "dry/monads"
-require "dry/monads/all"
+require "dry/monads"
 
 class AcceptableGift
   include Dry::Monads[:result, :do]
