@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is meant to play with both the comparable module and ruby's dry monads.
 
-Things you may want to cover:
+The idea is that a spoiled child has asked for a new dog for christmas. (She already has a dog) But she wants a new one and has an intricate grading system to decide if her new dog is better than the one she already has.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The new dog must be
+- cuter (obviously)
+- have the ability to play fetch
+- shorthaired
+- brown with white spots
